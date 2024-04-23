@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "mayank",
+      "email": "mayank@gmail.com",
+      "password": "mayank"
+    },
+    {
+      "id": 2,
+      "fullName": "demo",
+      "email": "demo@gmail.com",
+      "password": "demo"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "userId": 1,
+      "type": "Income",
+      "category": "Salary",
+      "amount": 50000,
+      "date": "2024-04-20"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "type": "Expense",
+      "category": "Food & Drinks",
+      "amount": 2000,
+      "date": "2024-04-21"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "type": "Income",
+      "category": "Salary",
+      "amount": 60000,
+      "date": "2024-04-22"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "type": "Expense",
+      "category": "Shopping",
+      "amount": 3000,
+      "date": "2024-04-23"
+    }
+  ]
+}
