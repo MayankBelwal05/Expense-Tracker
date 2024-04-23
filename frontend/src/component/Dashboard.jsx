@@ -65,12 +65,10 @@ const Dashboard = () => {
 };
 
 const Tracker = () => {
-  // Placeholder for Tracker component
   return <div><h3>Tracker Component</h3></div>;
 };
 
 const Analytics = () => {
-  // Placeholder for Analytics component
   return <div><h3>Analytics Component</h3></div>;
 };
 

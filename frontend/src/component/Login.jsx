@@ -35,13 +35,13 @@ function Copyright(props) {
 const customTheme = createTheme({
   palette: {
     primary: {
-      main: '#ff9800', // Bright Orange
+      main: '#ff9800', 
     },
     secondary: {
-      main: '#00bcd4', // Bright Blue
+      main: '#00bcd4', 
     },
     background: {
-      default: '#f5f5f5', // Light Grey
+      default: '#f5f5f5', 
     },
   },
 });
